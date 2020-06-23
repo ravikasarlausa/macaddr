@@ -21,9 +21,9 @@ Om Gam
 
 4. Run steps : 
 
-git clone 
+git clone https://github.com/ravikasarlausa/macaddr.git
 
-cd 
+cd macaddr
 
 sudo docker build -t infy .
 
